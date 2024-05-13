@@ -5,5 +5,7 @@ Wordle Game implemented in CustomTkinter, in Python. Along with playing Wordle i
 &emsp;&emsp; Here the target word is PRIOR. And we were able to guess that in 3 steps.  
   
 ![image](https://github.com/NightFury52/Wordle-Game-Bot-Tkinter/assets/143572917/e23bc5ea-3c4b-4c89-916c-8525f69c4f05)  
-&emsp;&emsp; There is also a bot in this game, which gives the best possible guess for any step. The Bot doesn't have any idea what's the target word. Given the hints received by the user, the bot gives a list of words which can reduce the size of the list of the remaining possible words (in expectation). This project was motivated by a video on Youtube by the channel name 3Blue1Brown. The link to the video https://youtu.be/v68zYyaEmEA?si=6MoXVl5fpUeQZiAS.
+&emsp;&emsp; There is also a bot in this game, which gives the best possible guess for any step. The Bot doesn't have any idea what's the target word. Given the hints received by the user, the bot gives a list of words which can reduce the size of the list of the remaining possible words (in expectation). This project was motivated by a video on Youtube by the channel name 3Blue1Brown. The link to the video https://youtu.be/v68zYyaEmEA?si=6MoXVl5fpUeQZiAS. Though mine's much simple than that.  
+
+  Hope You'll enjoy :)
 
